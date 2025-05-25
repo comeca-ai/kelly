@@ -1,0 +1,6 @@
+streamlit
+firebase-admin
+requests
+fpdf2
+streamlit-option-menu
+python-dotenv # For local development to load .env file
